@@ -1,0 +1,1 @@
+python3 /home/sooji/project/RL/src/eval_L2K_modules.py /home/sooji/project/RL/data/tta_44_eval.csv ../today/b2k_output_tta.csv ../today/b2k_eval_result_tta.tsv
